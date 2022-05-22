@@ -43,41 +43,29 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
+- BEM CSS Naming Convention
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Git 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+ 
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+ This is the second time I have done this project. I wanted to do something I've already done to practe using git and try out a CSS naming convention. I didn't really need to use BEM in this project but It helped me name my classes because i'm not good at naming things and having stucture helps.   
 
-To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+
+
+
+
+
 
 ### Continued development
+I'm going to continue to look into and using BEM. It gives me an outline I can use so I don't have to think as much about naming classes.
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I will continue to practice using git so when I actually need it on some of the harger courses I will be ready.
 
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
